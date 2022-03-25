@@ -36,7 +36,7 @@ Nombres Apellidos Estatura RH
  
 1.
 
- <img src="/img/1.png" title="1.png" name="1.png"/><br>
+ <img src="/img/punto1 taller1.png" title="punto1 taller1.png" name="punto1 taller1.png"/><br>
  
 2.
  
