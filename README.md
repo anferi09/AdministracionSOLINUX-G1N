@@ -30,7 +30,11 @@ Nombres Apellidos Estatura RH
  
  5. cat "nombre_archivo"  (comando para describir el archivo en la consola)
  
+ ## Instalar paquete tree
  
+ sudo yum install tree (comando para instalar el paquete)
+ 
+ tree (comando para ver directorios y ficheros)
  
  ## Solucion
  
@@ -45,3 +49,7 @@ Nombres Apellidos Estatura RH
  <img src="/img/3.png" title="3.png" name="3.png"/><br>
  
  <img src="/img/4.png" title="4.png" name="4.png"/><br>
+ 
+ 3.
+ 
+ 
