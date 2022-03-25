@@ -20,15 +20,15 @@ Nombres Apellidos Estatura RH
  
  ## Crear editar y guardar archivo
  
- vi "nombreabuelo"
+ 1. sudo vi "nombreabuelo"  (crea el archivo y abre para editarlo)
  
- i
+ 2. i (comando para insertar informacion en el archivo nuevo)
  
- esc
+ 3. tecla esc (una vez terminado de editar oprimir tecla ESC)
  
- :wq
+ 4. :wq (comando para salir y guardar)
  
- cat "nombre_archivo"
+ 5. cat "nombre_archivo"  (comando para describir el archivo en la consola)
  
  
  
