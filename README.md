@@ -34,4 +34,14 @@ Nombres Apellidos Estatura RH
  
  ## Solucion
  
- 1. <img src="/img/punto1 taller 1.png" title="punto1 taller 1.png" name="unto1 taller 1.png"/><br>
+1.
+
+ <img src="/img/1.png" title="1.png" name="1.png"/><br>
+ 
+2.
+ 
+ <img src="/img/2.png" title="2.png" name="2.png"/><br>
+ 
+ <img src="/img/3.png" title="3.png" name="3.png"/><br>
+ 
+ <img src="/img/4.png" title="4.png" name="4.png"/><br>
