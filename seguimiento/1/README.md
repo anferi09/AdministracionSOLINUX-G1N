@@ -1,6 +1,3 @@
-# Administracion-de-Sistemas-Operativos-GNU-Linux
-Repositorio para uso exclusivo de trabajos talleres y proyectos linux
-
 ## Taller 1 
 
 1. Dirigirse al /home/ del usuario creado y con los comandos anteriormente vistos, crear la sigte estructura de directorios 
@@ -52,4 +49,7 @@ Nombres Apellidos Estatura RH
  
  3.
  
+ <img src="/img/6.png" title="6.png" name="6.png"/><br>
+ 
+ <img src="/img/5.png" title="5.png" name="5.png"/><br>
  
