@@ -33,8 +33,9 @@ usermod -g "grupo" "usuario" (comando para asignar un grupo a un usuario)
 
 usermod -a -G "grupo" "usuario" (comando para asignar a varios grupos)
 
+chgrp profesor /home/profesores y chmod ug+rwx /home/profesores y chmod o-rwx /home/profesores (comandos para asignar permisos al grupo y a la carpeta especifica)
 
-
+touch ../estudiantes/pruebadir.txt (comando para crear archivos en los respectivos directorios)
 
 ## Solucion
 
@@ -62,5 +63,27 @@ usermod -a -G "grupo" "usuario" (comando para asignar a varios grupos)
 
 6.
 
+<img src="/img/28.png" title="28.png" name="28.png"/><br>
 
+<img src="/img/29.png" title="29.png" name="29.png"/><br>
+
+7.
+
+<img src="/img/30.png" title="30.png" name="30.png"/><br>
+
+8.
+
+<img src="/img/31.png" title="31.png" name="31.png"/><br>
+
+9.
+
+<img src="/img/32.png" title="32.png" name="32.png"/><br>
+
+10.
+
+<img src="/img/33.png" title="33.png" name="33.png"/><br>
+
+11.
+
+<img src="/img/34.png" title="34.png" name="34.png"/><br>
 
