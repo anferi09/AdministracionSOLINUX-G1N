@@ -1,4 +1,4 @@
-## Taller 4
+## Taller 6
 
 1. Crear un grupo llamado, infraestructura con gid 7777.
 
