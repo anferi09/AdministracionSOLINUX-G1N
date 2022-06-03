@@ -24,14 +24,25 @@ Qué operaciones debe realizar el script:
 
 Estándares: 
 ● El proyecto final se realizará en grupos de 1 persona y su computador.
+
 ● El script debe correr en la máquina del estudiante, no de ningún compañero. En su defecto en la sala de sistemas. 
+
 ● El script debe correr al menos 7 puntos de los anteriormente mencionados, para sacar una buena nota. 
+
 ● Si el script no corre, seguramente su nota no tendrá una buena puntuación.
+
 ● Se valorará la documentación y orden del script. 
+
 ● Se valorará si programa una ayuda con todas las opciones que permite el script. 
+
 ● Se valorará si la instalación de un servicio resiste el reinicio de la maquina. 
+
 ● Se valorará si el estudiante desarrolla una función que permite cambiar el index.html del servidor web. 
+
 ● Se valorará la honestidad del estudiante en la realización del script, que no sea mandado hacer. 
+
 ● El script no será evaluado a través de github. Se debe sustentar, probablemente se pregunten por los comandos usados en el script, no sólo su ejecución. 
+
 ● Fecha de presentación 27 de mayo del 2022. 
+
 ● Buena suerte y buen trabajo.
