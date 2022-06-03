@@ -6,6 +6,7 @@ Qué operaciones debe realizar el script:
 1) Instalar un servidor web nginx
 
 2) Instalar un servidor http 
+
 3) consultar el release del sistema operativo 
 
 4) consular el servidor dns, de un servidor 
@@ -13,16 +14,21 @@ Qué operaciones debe realizar el script:
 5) consular el gateway del servidor
 
 6) consultar el estado de selinux 
+ 
 7) listar las opciones de firewall configuradas 
+
 8) mostrar la información del archivo /etc/passwd 
 
 9) imprimir un mensaje con el parámetro ingresado
+
 10) listar los discos duros del servidor 
 
 11) Saber el tiempo que lleva prendido el servidor 
+
 12) Conocer los procesos del servidor
 
 Estándares: 
+
 ● El proyecto final se realizará en grupos de 1 persona y su computador.
 
 ● El script debe correr en la máquina del estudiante, no de ningún compañero. En su defecto en la sala de sistemas. 
